@@ -9,3 +9,4 @@ We used a sample dataset in JSON. Given this, the website can not be deployed lo
 - HTML
 ## Results
 The deployed website can be found in the following link: 
+- <a href="https://jncurrea.github.io/plotlydiploy/" target="_blank">Belly Button Bacteria Biodiversity</a>
